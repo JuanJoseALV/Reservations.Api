@@ -1,0 +1,11 @@
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\bin\Debug\net8.0\Reservations.Domain.deps.json
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\bin\Debug\net8.0\Reservations.Domain.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\bin\Debug\net8.0\Reservations.Domain.pdb
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\Reservations.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\Reservations.Domain.AssemblyInfoInputs.cache
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\Reservations.Domain.AssemblyInfo.cs
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\Reservations.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\Reservations.Domain.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\refint\Reservations.Domain.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\Reservations.Domain.pdb
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\ref\Reservations.Domain.dll

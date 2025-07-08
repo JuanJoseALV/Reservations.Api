@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Reservations.Api.Controllers.Persona_Controller",
+    "Method": "GetAllPersonas",
+    "RelativePath": "api/Persona_",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Reservations.Domain.Entities.Persona, Reservations.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

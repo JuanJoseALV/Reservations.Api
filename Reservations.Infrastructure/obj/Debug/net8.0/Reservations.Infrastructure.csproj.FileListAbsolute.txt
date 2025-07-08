@@ -1,0 +1,17 @@
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\bin\Debug\net8.0\Reservations.Infrastructure.deps.json
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\bin\Debug\net8.0\Reservations.Infrastructure.runtimeconfig.json
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\bin\Debug\net8.0\Reservations.Infrastructure.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\bin\Debug\net8.0\Reservations.Infrastructure.pdb
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\bin\Debug\net8.0\Reservations.Domain.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\bin\Debug\net8.0\Reservations.Domain.pdb
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.AssemblyInfo.cs
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservat.79B8A4A6.Up2Date
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\refint\Reservations.Infrastructure.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.pdb
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.genruntimeconfig.cache
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\ref\Reservations.Infrastructure.dll
