@@ -9,3 +9,4 @@ C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debu
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\refint\Reservations.Domain.dll
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\Reservations.Domain.pdb
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\ref\Reservations.Domain.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Domain\obj\Debug\net8.0\Reservations.Domain.sourcelink.json

@@ -19,7 +19,21 @@ namespace Reservations.Infrastructure.Repositories
         {
             _context = context;
         }
-
+        public async Task<DomainPersona?> LoginPersonasAsync(string Email, string Password)
+        {
+            return await _context.Personas
+                .Where(x => x.Email == Email && x.PasswordEmail == Password)
+                .Select(x => new DomainPersona
+                {
+                    Email = x.Email,
+                    FirstName = x.FirstName,
+                    LastName = x.LastName,
+                    PasswordEmail = x.PasswordEmail,
+                    Employee = x.Employee,
+                    StatePerson = x.StatePerson,
+                }).FirstOrDefaultAsync();
+               
+        }
         public async Task<IEnumerable<DomainPersona>> GetAllPersonasAsync()
         {
             return await _context.Personas

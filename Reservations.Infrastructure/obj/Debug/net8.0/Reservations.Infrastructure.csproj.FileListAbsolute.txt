@@ -15,3 +15,4 @@ C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.pdb
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.genruntimeconfig.cache
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\ref\Reservations.Infrastructure.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Infrastructure\obj\Debug\net8.0\Reservations.Infrastructure.sourcelink.json

@@ -1,5 +1,6 @@
 ﻿
 using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using Reservations.Domain.Entities;
 using Reservations.Domain.IRepositories;
@@ -22,5 +23,16 @@ namespace Reservations.Api.Controllers
             var personas = await _personasRepository.GetAllPersonasAsync();
             return Ok(personas);
         }
+        [HttpPost("login")]
+        public async Task<ActionResult<Persona>> LoginPersonas([FromBody] LoginRequest request)
+        {
+            var persona = await _personasRepository.LoginPersonasAsync(request.Email, request.Password);
+
+            if (persona == null)
+                return NotFound("Correo o contraseña incorrectos.");
+
+            return Ok(persona);
+        }
+
     }
 }

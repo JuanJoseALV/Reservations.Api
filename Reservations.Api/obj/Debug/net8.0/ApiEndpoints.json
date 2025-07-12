@@ -18,5 +18,31 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Reservations.Api.Controllers.Persona_Controller",
+    "Method": "LoginPersonas",
+    "RelativePath": "api/Persona_/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Microsoft.AspNetCore.Identity.Data.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Reservations.Domain.Entities.Persona",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
