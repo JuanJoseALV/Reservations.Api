@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Reservations.Domain.IRepositories;
+using Domain=Reservations.Domain.IRepositories;
 using Reservations.Infrastructure.Persistence.Models;
-using Reservations.Infrastructure.Repositories;
+using Repositorios = Reservations.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,7 +14,8 @@ builder.Services.AddRazorPages();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddScoped<IPersonasRepository, Personas>();
+builder.Services.AddScoped<Domain.IPersonasRepository, Repositorios.Personas>();
+builder.Services.AddScoped<Domain.IReservationRepository, Repositorios.Reservations>();
 
 builder.Services.AddCors(options =>
 {

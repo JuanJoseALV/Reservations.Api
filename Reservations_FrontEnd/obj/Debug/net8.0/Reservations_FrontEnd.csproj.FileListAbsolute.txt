@@ -1034,6 +1034,11 @@ C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\De
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\Reservations_FrontEnd.pdb
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\ref\Reservations_FrontEnd.dll
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\Reservations_FrontEnd.sourcelink.json
-C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\compressed\kbwjjkhu3u-p3hzgwo59s.gz
-C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\compressed\tcxtbaxa1c-9rf7a865yn.gz
-C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\compressed\hkzvyzx7t2-x1e11uz4h4.gz
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm.gz
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\bin\Debug\net8.0\Blazored.LocalStorage.dll
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\webcil\Blazored.LocalStorage.wasm
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\compressed\kl04nmha99-12n6dz54qr.gz
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\compressed\kbwjjkhu3u-vzs3rkrp10.gz
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\compressed\tcxtbaxa1c-edpjux4di0.gz
+C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations_FrontEnd\obj\Debug\net8.0\compressed\hkzvyzx7t2-h4gkkfsv9j.gz

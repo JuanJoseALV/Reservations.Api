@@ -1,7 +1,31 @@
-﻿@page "/"
+﻿@page "/Home"
+@using Blazored.LocalStorage
+@inject ILocalStorageService LocalStorage
+@inject NavigationManager Navigation
 
-<PageTitle>Home</PageTitle>
+<h3>Bienvenido, @usuario?.FirstName @usuario?.LastName</h3>
 
-<h1>Hello, world!</h1>
+@code {
+    Persona usuario;
 
-Welcome to your new app.
+    protected override async Task OnInitializedAsync()
+    {
+        usuario = await LocalStorage.GetItemAsync<Persona>("usuario");
+
+        if (usuario == null)
+        {
+            Navigation.NavigateTo("/login");
+        }
+    }
+
+    public class Persona
+    {
+        public int PersonId { get; set; }
+        public string FirstName { get; set; } = null!;
+        public string LastName { get; set; } = null!;
+        public string Email { get; set; } = null!;
+        public string PasswordEmail { get; set; } = null!;
+        public string Employee { get; set; } = null!;
+        public string StatePerson { get; set; } = null!;
+    }
+}

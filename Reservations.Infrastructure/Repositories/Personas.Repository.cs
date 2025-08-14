@@ -22,7 +22,7 @@ namespace Reservations.Infrastructure.Repositories
         public async Task<DomainPersona?> LoginPersonasAsync(string Email, string Password)
         {
             return await _context.Personas
-                .Where(x => x.Email == Email && x.PasswordEmail == Password)
+                .Where(x => x.Email == Email && x.PasswordEmail == Password && x.StatePerson == "A")
                 .Select(x => new DomainPersona
                 {
                     Email = x.Email,
@@ -31,6 +31,7 @@ namespace Reservations.Infrastructure.Repositories
                     PasswordEmail = x.PasswordEmail,
                     Employee = x.Employee,
                     StatePerson = x.StatePerson,
+                    PersonId= x.PersonId,
                 }).FirstOrDefaultAsync();
                
         }

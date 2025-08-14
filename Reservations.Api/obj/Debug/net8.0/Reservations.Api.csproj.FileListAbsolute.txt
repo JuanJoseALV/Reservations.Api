@@ -72,14 +72,10 @@ C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\n
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\Reservations.Api.AssemblyInfo.cs
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\Reservations.Api.csproj.CoreCompileInputs.cache
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\Reservations.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\Reservations.Api.RazorAssemblyInfo.cache
-C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\Reservations.Api.RazorAssemblyInfo.cs
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\scopedcss\bundle\Reservations.Api.styles.css
-C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\scopedcss\projectbundle\Reservations.Api.bundle.scp.css
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Juan Alvarez\source\repos\Reservations.Api\Reservations.Api\obj\Debug\net8.0\staticwebassets.development.json

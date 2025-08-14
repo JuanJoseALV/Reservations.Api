@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vju5dZBGGVU=",
+  "dgSpecHash": "hXgUq/FukFE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Reservations_FrontEnd.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Juan Alvarez\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\Juan Alvarez\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.17\\microsoft.aspnetcore.authorization.8.0.17.nupkg.sha512",
     "C:\\Users\\Juan Alvarez\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.17\\microsoft.aspnetcore.components.8.0.17.nupkg.sha512",
     "C:\\Users\\Juan Alvarez\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.17\\microsoft.aspnetcore.components.analyzers.8.0.17.nupkg.sha512",

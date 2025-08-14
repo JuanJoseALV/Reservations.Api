@@ -90,6 +90,55 @@
           }
         }
       }
+    },
+    "/api/Reservations/{ID}": {
+      "get": {
+        "tags": [
+          "Reservations"
+        ],
+        "parameters": [
+          {
+            "name": "ID",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Reservations"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Reservations"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Reservations"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {
@@ -148,6 +197,69 @@
             "nullable": true
           },
           "statePerson": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Reservations": {
+        "type": "object",
+        "properties": {
+          "reservationId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "personId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "roomId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "entryDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "departureDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "adultsNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "kidsNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "totalDaysReservation": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "priceForAdult": {
+            "type": "number",
+            "format": "double"
+          },
+          "priceForKid": {
+            "type": "number",
+            "format": "double"
+          },
+          "totalPrice": {
+            "type": "number",
+            "format": "double"
+          },
+          "creationDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "updateDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "reservationState": {
             "type": "string",
             "nullable": true
           }

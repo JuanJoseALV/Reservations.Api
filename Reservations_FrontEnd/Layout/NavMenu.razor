@@ -10,26 +10,23 @@
 <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
     <nav class="flex-column">
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+            <NavLink class="nav-link" href="home" Match="NavLinkMatch.All">
                 <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
             </NavLink>
         </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="weather">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
-            </NavLink>
-        </div>
-        <NavLink href="reservaciones" Match="NavLinkMatch.All">
-            <span class="oi oi-list-rich" aria-hidden="true"></span> Reservaciones
+        <NavLink class="nav-link" href="reservaciones" Match="NavLinkMatch.All">
+            <span class="bi-list-nested-nav-menu" aria-hidden="true"></span> Reservaciones
         </NavLink>
-        <NavLink href="login" Match="NavLinkMatch.All">
-            <span class="oi oi-list-rich" aria-hidden="true"></span> Login
+        <NavLink class="nav-link" href="login" Match="NavLinkMatch.All">
+            <span class="bi-list-nested-nav-menu" aria-hidden="true"></span> Login
         </NavLink>
+        <NavLink class="nav-link" href="/mis_reservaciones" Match="NavLinkMatch.All">
+            <span class="bi-list-nested-nav-menu" aria-hidden="true"></span> Mis reservaciones
+        </NavLink>
+        <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+            <span class="bi-list-nested-nav-menu" aria-hidden="true"></span> Gestionar reservaciones
+        </NavLink>
+
         
 
     </nav>

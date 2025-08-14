@@ -1,5 +1,9 @@
 ﻿@page "/login"
 @inject HttpClient Http
+@inject NavigationManager Navigation
+@inject ILocalStorageService LocalStorage
+
+@using Blazored.LocalStorage
 
 <h3 class="text-center mb-4">Iniciar Sesión</h3>
 
@@ -31,7 +35,10 @@
         if (response.IsSuccessStatusCode)
         {
             var persona = await response.Content.ReadFromJsonAsync<Persona>();
-            Console.WriteLine($"Bienvenida {persona.Nombre}");
+            Console.WriteLine($"Bienvenido {persona.FirstName}");
+            await LocalStorage.SetItemAsync("usuario", persona);
+            Navigation.NavigateTo("/Home");
+            
         }
         else
         {
@@ -49,8 +56,18 @@
 
     public class Persona
     {
-        public int Id { get; set; }
-        public string Nombre { get; set; }
+        public int PersonId { get; set; }
+
+        public string FirstName { get; set; }
+
+        public string LastName { get; set; }
+
         public string Email { get; set; }
+
+        public string PasswordEmail { get; set; }
+
+        public string Employee { get; set; }
+
+        public string StatePerson { get; set; }
     }
 }

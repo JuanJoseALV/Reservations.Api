@@ -3,44 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\wwwroot\\icon-192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\wwwroot\\icon-192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.domain\\irepositories\\ipersonasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|solutionrelative:reservations.domain\\irepositories\\ipersonasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\pages\\mis_reservaciones.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\pages\\mis_reservaciones.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|solutionrelative:reservations.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.api\\controllers\\persona_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|solutionrelative:reservations.api\\controllers\\persona_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|solutionrelative:reservations.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35BD078F-99D3-4C1A-9D6C-05F73DCCDE7D}|Reservations.Infrastructure\\Reservations.Infrastructure.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.infrastructure\\repositories\\personas.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35BD078F-99D3-4C1A-9D6C-05F73DCCDE7D}|Reservations.Infrastructure\\Reservations.Infrastructure.csproj|solutionrelative:reservations.infrastructure\\repositories\\personas.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\pages\\reservaciones.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\pages\\reservaciones.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.domain\\entities\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|solutionrelative:reservations.domain\\entities\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|solutionrelative:reservations.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.api\\controllers\\persona_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|solutionrelative:reservations.api\\controllers\\persona_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C8DC6E1-C387-418B-A933-D5CBD47A9644}|Reservations.Api\\Reservations.Api.csproj|solutionrelative:reservations.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|solutionrelative:reservations.domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations_frontend\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92348AE-20B7-43BB-B7E6-CDF8B48DDCCF}|Reservations_FrontEnd\\Reservations_FrontEnd.csproj|solutionrelative:reservations_frontend\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD078F-99D3-4C1A-9D6C-05F73DCCDE7D}|Reservations.Infrastructure\\Reservations.Infrastructure.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.infrastructure\\repositories\\reservations.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD078F-99D3-4C1A-9D6C-05F73DCCDE7D}|Reservations.Infrastructure\\Reservations.Infrastructure.csproj|solutionrelative:reservations.infrastructure\\repositories\\reservations.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.domain\\irepositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|solutionrelative:reservations.domain\\irepositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD078F-99D3-4C1A-9D6C-05F73DCCDE7D}|Reservations.Infrastructure\\Reservations.Infrastructure.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.infrastructure\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD078F-99D3-4C1A-9D6C-05F73DCCDE7D}|Reservations.Infrastructure\\Reservations.Infrastructure.csproj|solutionrelative:reservations.infrastructure\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BD078F-99D3-4C1A-9D6C-05F73DCCDE7D}|Reservations.Infrastructure\\Reservations.Infrastructure.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.infrastructure\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BD078F-99D3-4C1A-9D6C-05F73DCCDE7D}|Reservations.Infrastructure\\Reservations.Infrastructure.csproj|solutionrelative:reservations.infrastructure\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|c:\\users\\juan alvarez\\source\\repos\\reservations.api\\reservations.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1C4B29-0AFE-4883-8778-0E015424592D}|Reservations.Domain\\Reservations.Domain.csproj|solutionrelative:reservations.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,135 +90,264 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Reservations.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Reservations.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-12T02:29:14.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Persona_Controller.cs",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Controllers\\Persona_Controller.cs",
-              "RelativeDocumentMoniker": "Reservations.Api\\Controllers\\Persona_Controller.cs",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Controllers\\Persona_Controller.cs",
-              "RelativeToolTip": "Reservations.Api\\Controllers\\Persona_Controller.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T01:57:49.645Z",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Reservations_FrontEnd\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-13T04:24:59.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Login.razor",
-              "RelativeDocumentMoniker": "Reservations_FrontEnd\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Login.razor",
-              "RelativeToolTip": "Reservations_FrontEnd\\Pages\\Login.razor",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T03:12:37.001Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\wwwroot\\index.html",
+              "RelativeToolTip": "Reservations_FrontEnd\\wwwroot\\index.html",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-13T04:22:21.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "icon-192.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [192x192, 8 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\wwwroot\\icon-192.png",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\wwwroot\\icon-192.png",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\wwwroot\\icon-192.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [192x192, 8 bits, PNG]",
+              "RelativeToolTip": "Reservations_FrontEnd\\wwwroot\\icon-192.png -  [Espa\u00F1ol (M\u00E9xico)] - PNG [192x192, 8 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-13T04:22:19.298Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - PNG [192x192, 8 bits, PNG]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Reservations.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Program.cs",
-              "RelativeToolTip": "Reservations.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T02:03:29.983Z",
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\App.razor",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\App.razor",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\App.razor",
+              "RelativeToolTip": "Reservations_FrontEnd\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T04:19:14.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Reservaciones.razor",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Reservaciones.razor",
-              "RelativeDocumentMoniker": "Reservations_FrontEnd\\Pages\\Reservaciones.razor",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Reservaciones.razor",
-              "RelativeToolTip": "Reservations_FrontEnd\\Pages\\Reservaciones.razor",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\_Imports.razor",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\_Imports.razor",
+              "RelativeToolTip": "Reservations_FrontEnd\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T03:04:36.177Z",
+              "WhenOpened": "2025-08-13T04:18:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Home.razor",
+              "RelativeToolTip": "Reservations_FrontEnd\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T03:46:33.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservations.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\Entities\\Reservations.cs",
+              "RelativeDocumentMoniker": "Reservations.Domain\\Entities\\Reservations.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\Entities\\Reservations.cs",
+              "RelativeToolTip": "Reservations.Domain\\Entities\\Reservations.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:06:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Login.razor",
+              "RelativeToolTip": "Reservations_FrontEnd\\Pages\\Login.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T03:46:37.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Program.cs",
-              "RelativeDocumentMoniker": "Reservations_FrontEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Program.cs",
-              "RelativeToolTip": "Reservations_FrontEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Reservations.Api\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Reservations.Api\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T02:56:14.59Z",
+              "WhenOpened": "2025-08-02T03:18:11.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPersonasRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\IRepositories\\IPersonasRepository.cs",
-              "RelativeDocumentMoniker": "Reservations.Domain\\IRepositories\\IPersonasRepository.cs",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\IRepositories\\IPersonasRepository.cs",
-              "RelativeToolTip": "Reservations.Domain\\IRepositories\\IPersonasRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Persona_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Controllers\\Persona_Controller.cs",
+              "RelativeDocumentMoniker": "Reservations.Api\\Controllers\\Persona_Controller.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\Controllers\\Persona_Controller.cs",
+              "RelativeToolTip": "Reservations.Api\\Controllers\\Persona_Controller.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T00:13:48.447Z",
+              "WhenOpened": "2025-08-13T03:36:40.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Personas.Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Repositories\\Personas.Repository.cs",
-              "RelativeDocumentMoniker": "Reservations.Infrastructure\\Repositories\\Personas.Repository.cs",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Repositories\\Personas.Repository.cs",
-              "RelativeToolTip": "Reservations.Infrastructure\\Repositories\\Personas.Repository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowB8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T23:06:32.413Z",
+              "Title": "Mis_reservaciones.razor",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Mis_reservaciones.razor",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\Pages\\Mis_reservaciones.razor",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Pages\\Mis_reservaciones.razor",
+              "RelativeToolTip": "Reservations_FrontEnd\\Pages\\Mis_reservaciones.razor",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T02:58:51.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Personas.Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Repositories\\Personas.Repository.cs",
+              "RelativeDocumentMoniker": "Reservations.Infrastructure\\Repositories\\Personas.Repository.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Repositories\\Personas.Repository.cs",
+              "RelativeToolTip": "Reservations.Infrastructure\\Repositories\\Personas.Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T04:05:38.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Reservations.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Api\\appsettings.json",
+              "RelativeToolTip": "Reservations.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T03:55:28.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Reservations_FrontEnd\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Reservations_FrontEnd\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T03:05:13.291Z"
+              "WhenOpened": "2025-07-16T03:57:55.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\Entities\\Persona.cs",
-              "RelativeDocumentMoniker": "Reservations.Domain\\Entities\\Persona.cs",
-              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\Entities\\Persona.cs",
-              "RelativeToolTip": "Reservations.Domain\\Entities\\Persona.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Reservations.Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Repositories\\Reservations.Repository.cs",
+              "RelativeDocumentMoniker": "Reservations.Infrastructure\\Repositories\\Reservations.Repository.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Repositories\\Reservations.Repository.cs",
+              "RelativeToolTip": "Reservations.Infrastructure\\Repositories\\Reservations.Repository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T00:10:55.62Z"
+              "WhenOpened": "2025-08-02T02:02:28.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Reservations_FrontEnd\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations_FrontEnd\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Reservations_FrontEnd\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T02:58:56.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\IRepositories\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "Reservations.Domain\\IRepositories\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\IRepositories\\IReservationRepository.cs",
+              "RelativeToolTip": "Reservations.Domain\\IRepositories\\IReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:04:09.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservations.Infrastructure\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Models\\Reservation.cs",
+              "RelativeToolTip": "Reservations.Infrastructure\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:06:30.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Reservations.Infrastructure\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Infrastructure\\Models\\Persona.cs",
+              "RelativeToolTip": "Reservations.Infrastructure\\Models\\Persona.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:12:04.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Reservations.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Juan Alvarez\\source\\repos\\Reservations.Api\\Reservations.Domain\\Class1.cs",
+              "RelativeToolTip": "Reservations.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:04:12.835Z"
             }
           ]
         }

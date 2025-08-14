@@ -1,0 +1,122 @@
+﻿@page "/mis_reservaciones"
+@using Blazored.LocalStorage
+@inject HttpClient Http
+@inject ILocalStorageService LocalStorage
+@inject NavigationManager Navigation
+
+<h3>Bienvenido, @usuario?.FirstName @usuario?.LastName</h3>
+
+<h3>Mis reservaciones</h3>
+
+@if (reservations == null)
+{
+    <p>Cargando reservaciones...</p>
+}
+else if (!reservations.Any())
+{
+    <p>No tienes reservaciones.</p>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Habitación</th>
+                    <th>Fecha Entrada</th>
+                    <th>Fecha Salida</th>
+                    <th>Adultos</th>
+                    <th>Niños</th>
+                    <th>Días</th>
+                    <th>Precio Adulto</th>
+                    <th>Precio Niño</th>
+                    <th>Total</th>
+                    <th>Estado</th>
+                    <th>Fecha Creación</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var r in reservations)
+                {
+                    <tr class="@GetRowClass(r.ReservationState)">
+                        <td>@r.ReservationId</td>
+                        <td>@r.RoomId</td>
+                        <td>@r.EntryDate.ToString("dd/MM/yyyy")</td>
+                        <td>@r.DepartureDate.ToString("dd/MM/yyyy")</td>
+                        <td class="text-center">@r.AdultsNumber</td>
+                        <td class="text-center">@r.KidsNumber</td>
+                        <td class="text-center">@r.TotalDaysReservation</td>
+                        <td class="text-end">@r.PriceForAdult.ToString("C")</td>
+                        <td class="text-end">@r.PriceForKid.ToString("C")</td>
+                        <td class="text-end fw-bold">@r.TotalPrice.ToString("C")</td>
+                        <td>
+                            <span class="badge @GetBadgeClass(r.ReservationState)">@r.ReservationState</span>
+                        </td>
+                        <td>@r.CreationDate.ToString("dd/MM/yyyy")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@code {
+    private List<ReservationDto> reservations;
+    private Persona usuario;
+
+    protected override async Task OnInitializedAsync()
+    {
+        usuario = await LocalStorage.GetItemAsync<Persona>("usuario");
+
+        if (usuario == null)
+        {
+            Navigation.NavigateTo("/login");
+            return;
+        }
+
+        reservations = await Http.GetFromJsonAsync<List<ReservationDto>>(
+            $"https://localhost:7017/api/Reservations/{usuario.PersonId}"
+        );
+    }
+
+    private string GetRowClass(string estado) => estado switch
+    {
+        "Confirmada" => "table-success",
+        "Pendiente" => "table-warning",
+        "Cancelada" => "table-danger",
+        _ => ""
+    };
+
+    private string GetBadgeClass(string estado) => estado switch
+    {
+        "Confirmada" => "bg-success",
+        "Pendiente" => "bg-warning text-dark",
+        "Cancelada" => "bg-danger",
+        _ => "bg-secondary"
+    };
+
+    public class Persona
+    {
+        public int PersonId { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+    }
+
+    public class ReservationDto
+    {
+        public int ReservationId { get; set; }
+        public int PersonId { get; set; }
+        public int RoomId { get; set; }
+        public DateTime EntryDate { get; set; }
+        public DateTime DepartureDate { get; set; }
+        public int AdultsNumber { get; set; }
+        public int KidsNumber { get; set; }
+        public int TotalDaysReservation { get; set; }
+        public decimal PriceForAdult { get; set; }
+        public decimal PriceForKid { get; set; }
+        public decimal TotalPrice { get; set; }
+        public DateTime CreationDate { get; set; }
+        public string ReservationState { get; set; }
+    }
+}
