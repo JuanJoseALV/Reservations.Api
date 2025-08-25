@@ -33,6 +33,19 @@ namespace Reservations.Api.Controllers
 
             return Ok(persona);
         }
+        [HttpPost("CreatePersona")]
+        public async Task<IActionResult> CrearPersona([FromBody] Persona persona)
+        {
+
+            var nuevaPersona = await _personasRepository.CreatePersonaAsync(persona);
+            if (nuevaPersona == null)
+                return NotFound("No se creo el usuario");
+
+            return Ok(nuevaPersona);
+
+            
+        }
+
 
     }
 }

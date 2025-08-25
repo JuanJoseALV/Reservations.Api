@@ -28,6 +28,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Juan Alvarez/source/repos/Reservations.Api/Reservations_FrontEnd/Layout/Reutilizables.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJldXRpbGl6YWJsZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Juan Alvarez/source/repos/Reservations.Api/Reservations_FrontEnd/Pages/CrearUsuario.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXJVc3VhcmlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Juan Alvarez/source/repos/Reservations.Api/Reservations_FrontEnd/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

@@ -19,6 +19,36 @@ namespace Reservations.Infrastructure.Repositories
         {
             _context = context;
         }
+        public async Task<Domain.Entities.Persona?> CreatePersonaAsync(Domain.Entities.Persona persona)
+        {
+            var existe = await _context.Personas
+            .AnyAsync(p => p.Email == persona.Email || p.PasswordEmail == persona.PasswordEmail);
+
+            if (existe)
+            {
+                return null;
+            }
+
+          
+            var personaInfra = new InfraPersona
+            {
+                FirstName=persona.FirstName,
+                LastName=persona.LastName,
+                Employee=persona.Employee,
+                StatePerson="A",
+                Email = persona.Email,
+                PasswordEmail = persona.PasswordEmail
+            };
+
+            _context.Personas.Add(personaInfra);
+            await _context.SaveChangesAsync();
+
+           
+            return persona;
+        }
+
+
+
         public async Task<DomainPersona?> LoginPersonasAsync(string Email, string Password)
         {
             return await _context.Personas

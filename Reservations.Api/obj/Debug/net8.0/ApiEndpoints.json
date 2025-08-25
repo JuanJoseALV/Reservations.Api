@@ -21,6 +21,22 @@
   },
   {
     "ContainingType": "Reservations.Api.Controllers.Persona_Controller",
+    "Method": "CrearPersona",
+    "RelativePath": "api/Persona_/CreatePersona",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "persona",
+        "Type": "Reservations.Domain.Entities.Persona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Reservations.Api.Controllers.Persona_Controller",
     "Method": "LoginPersonas",
     "RelativePath": "api/Persona_/login",
     "HttpMethod": "POST",

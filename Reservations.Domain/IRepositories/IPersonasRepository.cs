@@ -10,7 +10,9 @@ namespace Reservations.Domain.IRepositories
     public interface IPersonasRepository
     {
         Task<IEnumerable<Persona>> GetAllPersonasAsync();
-        Task<Persona> LoginPersonasAsync(string Email ,string Password);
+        Task<Persona> LoginPersonasAsync(string Email, string Password);
+
+        Task<Persona> CreatePersonaAsync(Domain.Entities.Persona persona);
 
     }
 }

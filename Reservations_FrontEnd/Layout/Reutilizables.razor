@@ -1,0 +1,17 @@
+﻿<div class="mb-3">
+    <label class="form-label">@Label</label>
+    <InputText @bind-Value="Value"
+               class="@CssClass"
+               placeholder="@Placeholder"
+               type="@Type" />
+    <ValidationMessage For="@(() => Value)" />
+</div>
+
+@code {
+    [Parameter] public string Label { get; set; } = string.Empty;
+    [Parameter] public string Placeholder { get; set; } = string.Empty;
+    [Parameter] public string Value { get; set; }
+    [Parameter] public EventCallback<string> ValueChanged { get; set; }
+    [Parameter] public string Type { get; set; } = "text";
+    [Parameter] public string CssClass { get; set; } = "form-control";
+}
